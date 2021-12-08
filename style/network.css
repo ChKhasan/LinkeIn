@@ -1,0 +1,149 @@
+/* class display start  */
+body{
+    cursor: pointer;
+}
+
+
+/* standard start */
+.bg-blue{
+    background: linear-gradient(180deg, rgba(241, 244, 248, 0.8) 0%, rgba(241, 244, 248, 0) 100%);
+
+}
+.font_color{
+    color: #0077B5 ;
+}
+.op-0_7{
+    opacity: 0.7;
+}
+.bor-right{
+    border-left: 7px  solid  #0077B5 !important ;
+}
+.border_left{
+    border-left: 10px  solid  #0077B5 !important;
+}
+.pse{
+    padding-left: 6px ;
+    padding-right: 6px ;
+}
+.border_none{
+    border: none !important;
+}
+.bor_bot{
+    border-bottom: 1px solid rgba(90, 89, 89, 0.281) !important;
+}
+
+
+
+
+/* standart end  */
+
+
+
+/* left-menu start */
+
+.card ul li:hover{
+    border-left: 10px  solid  #0077B5 !important;
+}
+.two_theme button:active{
+    background-color: #0077B5;
+    color: white;
+}
+
+.nav-top{
+    margin-top: 80px !important;
+    padding-top: 40px !important;
+}
+
+.pse-10{
+    padding: 10px 90px !important;
+}
+
+.olov{
+    font-weight: bold;
+    color: #FFB75E ;
+}
+
+/* left menu end  */
+.dark-blue{
+    background-color:#0077B5 !important;
+
+}
+.bg-white{
+    background-color:white !important;
+}
+
+.ms_-2{
+    margin-left: -5px;
+    border-radius: 0px !important;
+}
+.w-90{
+    width: 95% !important;
+}
+.hight-50{
+    height: 44px;
+}
+.w-45{
+    width: 32% !important;
+}
+
+/* class display end  */
+
+/* media min width 1200px start */
+@media screen and (min-width:1200px){
+    .menu-left-1200{
+        display: none;
+    }
+}
+/* media min width 1200px end */
+
+/* media  max width : 1200 px start */
+
+
+@media screen and (max-width:1200px){
+    .menu-left{
+        display: none;
+    }
+    .head-right{
+        margin: 0 auto  !important;
+    }
+    .card-body{
+        display:flex;
+        justify-content:center;
+    }
+
+}
+
+/* media  max width : 1200 px end */
+
+
+/* media  max width : 1000 px start */
+@media screen and (max-width:1190px){ 
+.mem_about{
+    display:none;
+}
+}
+
+ @media screen and (max-width:570px)   {
+    .mem_about{
+        display:block;
+    }
+    .pse-10{
+        padding: 5px 30px !important;
+    } 
+
+}
+
+/* media  max width : 1000 px end */
+
+@media screen and (max-width:520px){
+    .max-500{
+       text-align:center;
+    }
+}
+
+@media screen and (max-width:300px){
+    .mem_about{
+        width:100%;
+    }
+
+}

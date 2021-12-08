@@ -1,0 +1,42 @@
+
+
+/* standard start */
+.bg-blue{
+    background: linear-gradient(180deg, rgba(241, 244, 248, 0.8) 0%, rgba(241, 244, 248, 0) 100%);
+
+}
+.font_color{
+    color: #0077B5 ;
+}
+.op-0_7{
+    opacity: 0.7;
+}
+.bor-right{
+    border-left: 7px  solid  #0077B5 !important ;
+}
+.border_left{
+    border-left: 10px  solid  #0077B5 !important;
+}
+.pse{
+    padding-left: 6px ;
+    padding-right: 6px ;
+}
+.border_none{
+    border: none !important;
+}
+.bor_bot{
+    border-bottom: 1px solid rgba(90, 89, 89, 0.281) !important;
+}
+.mar_0_auto{
+    margin: 0 auto !important;
+}
+.w-33{
+    width: 33%;
+    margin-top: 11px;
+}
+
+
+
+
+/* standart end  */
+
