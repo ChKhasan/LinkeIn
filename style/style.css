@@ -11,6 +11,9 @@ a {
     color: black !important ;
 
 }
+.container-xxl {
+    min-width: 360px;
+}
 .w {
     background: white !important;
     height: 87px;
@@ -121,6 +124,13 @@ text-align: left;
     top: 80px;
     display: none;
     overflow: hidden;
+    overflow-y: scroll;
+}
+.cursor-p {
+    cursor: pointer;
+}
+.cursor-p:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0,.09) !important;
 }
 /* navbar */
 
