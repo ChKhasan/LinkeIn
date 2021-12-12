@@ -62,9 +62,9 @@ input:focus {
    background: white;
    z-index: 10;
 }
-p {
+/* p {
     margin: 0 !important;
-}
+} */
 
 .b {
     border-left: 1px solid rgba(0, 0, 0, .02);
@@ -135,7 +135,7 @@ text-align: left;
 /* navbar */
 
 /* footer */
-ul  li{
+/* ul  li{
     
     list-style-type: none;
     font-family: 'Roboto', sans-serif;
@@ -145,7 +145,7 @@ line-height: 11px;
 letter-spacing: 0em;
 text-align: left;
 
-}
+} */
 .footer {
     padding-top: 35px;
     padding-bottom: 50px;
@@ -204,5 +204,8 @@ text-align: left;
 }
 .mb-30 {
     margin-bottom: 30px;
+}
+.p-r {
+    position: relative;
 }
 /* footer */

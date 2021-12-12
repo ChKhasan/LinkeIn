@@ -1,12 +1,21 @@
 /* class display start  */
 body{
     cursor: pointer;
+background-color: #F7F9FB !important;
+
 }
 
 
 /* standard start */
-.bg-blue{
+/* .bg-blue{
     background: linear-gradient(180deg, rgba(241, 244, 248, 0.8) 0%, rgba(241, 244, 248, 0) 100%);
+
+} */
+.martopiqb{
+    padding-top:60px !important;
+}
+.bor_bot{
+    border-bottom: 4px solid #0275B1 !important;
 
 }
 .font_color{
@@ -33,6 +42,7 @@ body{
 }
 
 
+
 /* standart end  */
 
 
@@ -46,12 +56,6 @@ body{
     background-color: #0077B5;
     color: white;
 }
-
-.nav-top{
-    margin-top: 80px !important;
-    padding-top: 40px !important;
-}
-
 .pse-10{
     padding: 10px 90px !important;
 }
@@ -75,7 +79,7 @@ body{
     border-radius: 0px !important;
 }
 .w-90{
-    width: 95% !important;
+    width: 90% !important;
 }
 .hight-50{
     height: 44px;

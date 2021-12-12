@@ -1,18 +1,25 @@
+body{
+background-color: #F7F9FB !important;
 
+}
 
 /* standard start */
 
 /* bg-start  */
-.bg-blue{
+/* .bg-blue{
     background: linear-gradient(180deg, rgba(241, 244, 248, 0.8) 0%, rgba(241, 244, 248, 0) 100%);
 
-}
+} */
 .bg-dark-blue{
     background-color: #0077B5 !important;
 }
 
 .bg-bill{
     background-color: #E9F0F8 !important;
+}
+.bor_bot{
+    border-bottom: 4px solid #0275B1 !important;
+    color: #0077B5;
 }
 
 /* bg-end  */
