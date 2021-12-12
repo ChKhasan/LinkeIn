@@ -8,9 +8,7 @@
 body{
 background-color: #F7F9FB !important;
 }
-.height{
-    height: 150px;
-}
+
 .border{
     padding: 20px;
 }
@@ -191,14 +189,14 @@ span{
     flex-direction: row;
     flex-wrap: wrap;
 }
-.btn1 button{
+.btn5 button{
     margin: 10px 5px;
     padding: 8px 20px;
     background-color: #E8F0F8;
     border-radius: 8px;
     border: none;
 }
-.btn1 button:hover{
+.btn5 button:hover{
     transform: scale(1.1);
     color: white;
     background-color: gray;
@@ -207,12 +205,15 @@ span{
 .br{
     border-top: 1px solid rgb(236, 232, 232);
 }
+.marg{
+    padding-top: 80px;
+}
 
-@media screen and (max-width:992px) {
+/* @media screen and (max-width:992px) {
     .dis-none{
         display: none;
     }
-}
+} */
 
 @media screen and (max-width:460px) {
     .icon{
