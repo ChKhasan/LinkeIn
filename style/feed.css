@@ -208,6 +208,10 @@ span{
 .marg{
     padding-top: 80px;
 }
+.bor_bot{
+    border-bottom: 4px solid #0275B1 !important;
+
+}
 
 /* @media screen and (max-width:992px) {
     .dis-none{
