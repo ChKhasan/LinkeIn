@@ -1,0 +1,316 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #e5e5e5;
+}
+.opacity {
+  font-family: Gotham Pro;
+  font-size: 10px;
+  line-height: 150%;
+  /* identical to box height, or 15px */
+  color: rgba(24, 24, 24, 0.5);
+}
+h4 {
+  font-family: Gotham Pro;
+  font-size: 14px;
+  line-height: 13px;
+  color: #181818;
+}
+.theresa {
+  font-family: Gotham Pro;
+  font-size: 14px;
+  line-height: 13px;
+  color: #0275b1;
+}
+
+.new_chat {
+  background: linear-gradient(180deg, #0077b5 0%, #0e6795 100%);
+  border-radius: 4px;
+}
+.vector {
+  width: 20px;
+  height: 20px;
+}
+
+button:hover {
+  transform: scale(1.005);
+  box-shadow: 0 0 12px #0275b1;
+}
+li:hover {
+  transform: scale(1.005);
+  box-shadow: 0 0 12px #0275b1;
+  cursor: pointer;
+  transform: translate(20px);
+  transition: all 4s;
+  left: -20px;
+}
+.button1:hover {
+  box-shadow: none;
+}
+.button1 {
+  list-style: none;
+  text-decoration: none;
+}
+.design {
+  opacity: 0.2;
+  width: 271px;
+  height: 21px;
+  left: calc(50% - 271px / 2 + 343.5px);
+  top: 396px;
+  font-family: Gotham Pro;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #181818;
+  margin-top: 30px !important;
+}
+
+.date {
+  font-family: Gotham Pro;
+  font-size: 12px;
+  line-height: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #181818;
+  opacity: 0.6;
+}
+.group {
+  margin-top: 25px !important;
+  width: 421px !important;
+  height: 30px;
+  left: calc(50% - 421px / 2 + 15.5px);
+  top: 312px;
+  font-family: Gotham Pro;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #ffffff;
+}
+
+.group1 {
+  margin-top: 25px !important;
+  width: 421px !important;
+  height: 30px;
+  left: calc(50% - 421px / 2 + 15.5px);
+  top: 312px;
+  font-family: Gotham Pro;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #ffffff;
+}
+
+.logo {
+  margin-left: 30px !important;
+}
+
+.logo:hover {
+  transform: scale(1.005);
+  box-shadow: 0 0 12px #0275b1;
+  background-color: #0275b1;
+  border-radius: 25%;
+}
+.scrip {
+  margin-top: 2px !important;
+  width: 25px;
+  height: 25px;
+}
+
+.kyle {
+  color: #0e6795;
+}
+
+.online {
+  opacity: 0.5;
+}
+
+.to_you:before {
+  transition: all 4s;
+  left: -20px;
+}
+.to_you:after {
+  content: " ";
+  width: 10px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #0275b1;
+}
+
+.massanger {
+  margin-top: 48px !important;
+  display: inline;
+  left: 25px !important;
+}
+
+.write {
+  margin-top: 50px !important;
+}
+
+.Notifications li {
+  list-style: none;
+  text-decoration: none;
+  width: 290px;
+  height: 100px;
+  left: calc(50% - 290px / 2 - 445px);
+  top: 120px;
+  background: #ffffff;
+  border-radius: 4px;
+  top: 171.32px;
+  border: 1px solid #f4f4f4;
+}
+
+.today {
+  font-family: Gotham Pro;
+  font-size: 52px;
+  line-height: 50px;
+  /* identical to box height */
+  text-transform: uppercase;
+  color: #0275b1;
+}
+
+.posts {
+  font-family: Gotham Pro !important;
+  font-size: 52px;
+  line-height: 50px;
+  /* identical to box height */
+  text-transform: uppercase !important;
+  color: #0275b1 !important;
+}
+
+.numbers1 {
+  font-family: Gotham Pro !important;
+  font-size: 52px;
+  line-height: 50px;
+  /* identical to box height */
+  text-transform: uppercase !important;
+  color: #0275b1 !important;
+}
+.numbers2 {
+  font-family: Gotham Pro !important;
+  font-size: 52px;
+  line-height: 50px;
+  /* identical to box height */
+  text-transform: uppercase !important;
+  color: #0275b1 !important;
+}
+.numbers3 {
+  font-family: Gotham Pro !important;
+  font-size: 52px;
+  line-height: 50px;
+  /* identical to box height */
+  text-transform: uppercase !important;
+  color: #0275b1 !important;
+}
+
+.views {
+  font-family: Gotham Pro !important;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #181818;
+  opacity: 0.2;
+}
+.views2 {
+  font-family: Gotham Pro !important;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #181818;
+  opacity: 0.2;
+}
+
+.views3 {
+  font-family: Gotham Pro !important;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  color: #181818;
+  opacity: 0.2;
+}
+.card {
+  width: 100%;
+}
+
+.stats {
+  width: 83px;
+  height: 11px;
+  top: 265px;
+  font-family: Gotham Pro;
+  font-size: 12px;
+  line-height: 11px;
+  text-align: right;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  color: #0275b1;
+  list-style: none;
+  text-decoration: none;
+}
+
+.text {
+  text-align: center;
+}
+.chat {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  place-content: flex-end;
+  /* flex-grow: 1; */
+}
+.send {
+  margin-top: auto;
+  height: 50px;
+}
+
+.others .message {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ccc;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 105px;
+  position: relative;
+}
+.mine .message {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #0275b1;
+  color: #fff;
+  padding: 5px;
+  padding-left: 35px;
+  margin: 5px 15px;
+  margin-right: 100px;
+  position: relative;
+}
+.mine .message:before {
+  content: " ";
+  position: absolute;
+  background-color: #0275b1;
+  bottom: 0;
+  left: -7px;
+  height: 15px;
+  width: 35px;
+  transform: skew(-45deg, 0deg);
+}
+.mine .time {
+  display: flex;
+  justify-content: flex-start;
+}
+.others .time {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.time {
+  opacity: 0.5;
+}
+.message {
+  border-radius: 10px 10px 10px 0;
+}
+.others .message {
+  border-radius: 10px;
+}
