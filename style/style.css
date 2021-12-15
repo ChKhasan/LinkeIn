@@ -1,0 +1,379 @@
+
+.nav-end1{
+    padding-top: 120px !important;
+}
+.p-r {
+    position: relative;
+}
+#abs-img {
+    position: absolute;
+
+    top: -50px;
+}
+.margin-p {
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.btn1 {
+    color: white !important;
+    font-family: 'Inter', sans-serif;       
+
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: center;
+background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+ margin-top: 14px;
+width: 37%;
+margin-right: 15px;
+}
+.btn2 {
+    color: #0E6795  !important;
+    font-family: 'Inter', sans-serif;       
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: center;
+background: white;
+border: 1px solid #0E6795 !important;
+ margin-top: 14px;
+width: 37%;
+margin-right: 15px;
+}
+.card-text {
+    font-family: 'Inter', sans-serif;       
+    font-weight: 600 !important;
+
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.card-title{
+    /* font-family: 'Inter', sans-serif;        */
+ font-weight: 700 !important;
+font-size: 18px;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+margin-right: 8px !important;
+
+}
+h5 {
+    margin: 0 !important;
+}
+.tg p 
+{
+    font-family: 'Inter', sans-serif;       
+margin-left: 30px;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 14px;
+}
+.tg {
+    margin-bottom: 14px;
+}
+.card {
+    border: none !important; 
+}
+.container-fluid-xxl {
+    background: #F7F9FB;
+
+}
+.r-col-3 h5{
+    font-family: 'Inter', sans-serif;       
+font-weight: 600!important;
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: left;
+text-transform: uppercase;
+margin: 0 !important;
+
+}
+.r-col-3 a {
+   font-weight: 600!important;
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: left;
+text-transform: uppercase;
+color: #0275B1 !important;
+margin: 0 !important;
+
+}
+.r-col-3-important {
+    padding: 9% !important;
+}
+.r-col-3 {
+    padding: 6%;
+
+}
+.r-banner {
+    background: white;
+}
+.hr {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.hr div {
+    width: 80%;
+    height: 1px;
+    background: rgba(0, 0, 0, .1);
+}
+.big-h h6 {
+    font-family: 'Roboto', sans-serif;     
+font-weight: 900 !important;
+color: #0275B1;
+
+font-size: 52px;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.big-h p {
+    font-family: 'Roboto', sans-serif;     
+   font-weight: 500 !important;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.visitors h4{
+    font-family: 'Roboto', sans-serif;     
+    font-weight: 700 !important;
+
+font-size: 14px;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.visitors p{
+    font-family: 'Roboto', sans-serif;     
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+
+}
+.card-end {
+
+background: white;
+font-family: 'Roboto', sans-serif;     
+font-weight: 600 !important;
+text-transform: uppercase;
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: center;
+
+height: 40px;
+margin-bottom: 0 !important;
+transition: .3s;
+
+}
+.card-end:hover {
+
+    background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
+    margin-bottom: 0 !important;
+    height: 50px;
+    color: white;
+    
+    }
+.card-end0 {
+    height: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.card2 {
+    width: 100% !important;
+    /* padding: 1.5%; */
+}
+.card2 h5 {
+    font-family: 'Roboto', sans-serif;     
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.card2 p {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400 !important;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+
+
+}
+.card2 a {
+    font-family: 'Roboto', sans-serif; 
+    color: #0275B1 !important;
+    font-size: 12px;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 15px !important;
+
+}
+.card-body {
+    padding: 3.5% !important;
+}
+
+.cards {
+    padding: 3.5% !important;
+    background: white;
+    width: 100% !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+
+}
+.mb30 {
+    margin-bottom: 30px;
+}
+.pl0 {
+    padding-left: 0 !important;
+}
+.pr0 {
+    padding-right: 0 !important;
+}
+.w9p {
+    width: 99% !important;
+}
+.card-link {
+    font-family: 'Roboto', sans-serif;
+    color: #0275B1 !important;
+    font-size: 12px;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 15px !important;
+}
+.card-half {
+    padding: 14px !important;
+    border: 1px solid rgba(0, 0, 0, .05);
+    border-radius: 6px;
+    cursor: pointer;
+}
+.card-half h5{
+    
+font-size: 14px !important;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.cards-title1 h5,.cards-title1 p{
+    display: inline !important;
+}
+.freelance p {
+    font-family: 'Roboto', sans-serif;
+
+font-size: 10px;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 0!important;
+margin-bottom: 5px !important;
+
+}
+.freelance p:nth-child(4) {
+
+margin-top: 10px!important;
+color: #181818;
+padding: 0 !important;
+
+}
+.free_p p:nth-child(1) {
+  display: inline !important;
+  width:24%;
+  padding-right: 0 !important;
+}
+.free_p p:nth-child(2) {
+    color: #0275B1 !important;
+  display: inline-block !important;
+  width:30%;
+  padding: 0 !important;
+}
+.card {
+    position: relative;
+}
+.more, .edit {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    height: 36px !important;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: center;
+    cursor: pointer;
+    padding: 11px;
+    border-radius: 4px;
+background: rgba(255, 255, 255, .8);
+}
+.edit h3 {
+    margin-bottom: 0 !important;
+    font-family: 'Roboto', sans-serif;
+
+font-size: 12px;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: center;
+
+    font-size: 12px !important;
+
+}
+.edit {
+    right: 76px;
+}
+.more {
+    transform: rotate(90deg);
+    width: 36px;
+    /* top: 50px; */
+}
+
+
+
+@media screen and (max-width: 576px) {
+
+    .freelance p,.freelance{
+        text-align: center;
+    }
+    .text-a ul li{
+        text-align: center;
+        padding: 0 !important;
+    }
+    .text-a {
+        text-align: center !important;
+        display: inline !important;
+    }
+   .card-body h5 {
+       text-align: center !important;
+   }
+   .card-title {
+       text-align: center;
+   }
+}
+@media screen and (max-width: 992px){
+
+    .jcc {
+        justify-content: center;
+    }
+    
+}

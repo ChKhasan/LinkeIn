@@ -101,3 +101,124 @@ line-height: 150%;
 /* identical to box height, or 21px */
 color: #181818;
 }
+
+.numbers{
+font-family: Gotham Pro;
+font-size: 52px;
+line-height: 50px;
+/* identical to box height */
+text-transform: uppercase;
+color: #0275B1;
+}
+.start{
+width: 83px;
+height: 11px;
+left: calc(50% - 83px/2 - 370.5px);
+top: 265px;
+font-family: Gotham Pro;
+font-size: 12px;
+line-height: 11px;
+text-align: right;
+text-decoration-line: underline;
+text-transform: uppercase;
+color: #0275B1;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.dashboard{
+width: 121px;
+height: 11px;
+left: calc(50% - 121px/2 - 499.5px);
+top: 265px;
+font-family: Gotham Pro;
+font-size: 12px;
+line-height: 11px;
+text-transform: uppercase;
+color: #181818;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cycle{
+position: absolute;
+width: 290px;
+height: 360px;
+left: calc(50% - 290px/2 - 445px);
+top: 240px;
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(241, 244, 248, 0.5);
+border-radius: 4px;
+}
+.notice-listItem:hover{
+  box-shadow:0.5rem 1rem rgba(0,0,0,.15);
+  transform: scale(1.005);
+  /* box-shadow: 0 0 12px #0275b1; */
+  background-color: #0275b1;
+  border-radius: 6%;
+  color: #ffff; 
+}
+.setting-cycle{
+  margin-bottom: 25px;
+}
+
+.indication-menu{
+  opacity: 0.5;
+}
+
+.comment{
+width: 850px;
+height: 78px;
+left: calc(50% - 850px/2 + 165px);
+top: 171px;
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(241, 244, 248, 0.5);
+border-radius: 4px;
+}
+.dashboard:hover{
+  box-shadow:0.5rem 1rem rgba(0,0,0,.15);
+  transform: scale(1.005);
+  background-color: #a7a7a7;
+  border-radius: 6%;
+  color: rgb(255, 251, 251);
+  cursor: pointer;
+}
+.start:hover{
+  box-shadow:0.5rem 1rem rgba(0,0,0,.15);
+  transform: scale(1.005);
+  background-color: #7b7d7e;
+  border-radius: 6%;
+  color: rgb(0, 140, 255);
+  cursor: pointer;
+}
+.comment-and-like{
+width: 1800px;
+height: 78px;
+left: calc(50% - 850px/2 + 165px);
+top: 171px;
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(241, 244, 248, 0.5);
+border-radius: 4px;
+margin-top: 80px;
+text-align: center;
+border-radius:15%
+}
+
+
+.text{
+  border: 1px solid #E7E7E7;
+  /* width: 360px; */
+height: 0px;
+left: calc(50% - 360px/2 - 80px);
+top: 125px;
+text-align: center;
+}
+.btn{
+  position: absolute;
+  right: 250px;
+}
+
+.img{
+  height:30px;
+  width:30px;
+  margin-left: -12px;
+}
+
+.noticies-text{
+}
