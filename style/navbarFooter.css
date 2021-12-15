@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../fontFamily/GothamPro.ttf');
+
+}
+* {
+    font-family: "GothamPro" !important;
+}
 /* navbar */
 a {
     text-decoration: none !important; 
@@ -60,6 +68,7 @@ input:focus {
    position: fixed;
    width: 100%;
    background: white;
+   top: 0;
    z-index: 10;
 }
 /* p {
@@ -207,5 +216,13 @@ text-align: left;
 }
 .p-r {
     position: relative;
+}
+ul li {
+    list-style: none;
+font-size: 12px;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 /* footer */
