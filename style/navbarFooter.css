@@ -135,6 +135,26 @@ text-align: left;
     overflow: hidden;
     overflow-y: scroll;
 }
+@media screen and (min-width: 1600px){
+    .inputFocus {
+        height: 850px !important; 
+    overflow-y:hidden;
+
+    }
+    .show {
+        height: 1000px !important; 
+        overflow-y:hidden; 
+    }
+}
+
+@media screen and (max-width: 700px){
+    .inputFocus, .show {
+        display: none !important;
+
+    }
+    
+}
+
 .cursor-p {
     cursor: pointer;
 }

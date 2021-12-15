@@ -40,6 +40,16 @@ border: 1px solid #0E6795 !important;
 width: 37%;
 margin-right: 15px;
 }
+@media screen and (max-width: 570px){
+    .btn1,.btn2 {
+        width: 80%;
+    }
+    .card-end0 {
+        height: initial !important;
+        padding: 5px;
+        /* background: red !important; */
+    }
+}
 .card-text {
     font-family: 'Inter', sans-serif;       
     font-weight: 600 !important;
@@ -188,15 +198,20 @@ transition: .3s;
 
     background: linear-gradient(180deg, #0077B5 0%, #0E6795 100%);
     margin-bottom: 0 !important;
-    height: 50px;
+    height: 45px;
     color: white;
     
     }
+
 .card-end0 {
     height: 50px;
-    padding-left: 12px;
-    padding-right: 12px;
+
+    padding: 5px 12px;
 }
+.card-end p {
+    margin: 0 !important;
+}
+
 .card2 {
     width: 100% !important;
     /* padding: 1.5%; */
