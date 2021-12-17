@@ -124,7 +124,7 @@ li:hover {
 }
 
 .online {
-  opacity: 0.5;
+  opacity: 0.1;
 }
 
 .to_you:before {
@@ -269,8 +269,8 @@ li:hover {
 .others .message {
   display: flex;
   justify-content: flex-end;
-  background-color: #ccc;
-  padding: 5px;
+  background: #E9F0F8;
+  padding: 8px 15px;
   margin: 5px;
   margin-left: 105px;
   position: relative;
@@ -280,7 +280,7 @@ li:hover {
   justify-content: flex-start;
   background-color: #0275b1;
   color: #fff;
-  padding: 5px;
+  padding: 8px 15px ;
   padding-left: 35px;
   margin: 5px 15px;
   margin-right: 100px;
